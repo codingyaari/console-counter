@@ -1,0 +1,19 @@
+{
+  "name": "console-counter",
+  "version": "1.0.0",
+  "description": "Count and remove console statements in the current file",
+  "main": "index.js",
+  "bin": {
+    "ct": "./bin/count.js",
+    "cr": "./bin/remove.js"
+  },
+  "keywords": [
+    "console",
+    "debug",
+    "counter",
+    "remove",
+    "cli"
+  ],
+  "author": "CodingYaari <codingyarri@gmail.com>",
+  "license": "MIT"
+}
