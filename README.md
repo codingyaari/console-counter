@@ -1,11 +1,12 @@
 
+
 <img src="./assets/git-logo.jpg" alt="console-debug-pro" width="700">
 </h1>
 
 <h1 align="center">
  Console Counter 📟
 </h1>
-Insert, count, and remove `console.log` statements automatically in JavaScript/TypeScript files — with instant keyboard shortcuts to keep your codebase clean and production-ready.
+ <h4  align="center">Insert, count, and remove <b>console.log</b> statements automatically in JavaScript/TypeScript files — with instant keyboard shortcuts to keep your codebase clean and production-ready.</h4>
 
 ---
 
@@ -51,7 +52,6 @@ npm install -g console-counter
 
 This will give you access to the commands ct and cr anywhere in your system.
 ```
-_______________________________________________________________________________________
 
 **🛠️ Usage:**
 **1. Check Console Count**
@@ -86,10 +86,9 @@ ct app.js
 // Output:
 ❌ No console logs found in app.js
 
-
+```
 
 ---
-
 ## 🖼️ Example Outputs
 
 - Counting consoles:  
@@ -100,6 +99,8 @@ ct app.js
 
 - When no console logs exist:  
   `❌ No console logs found in PostPreview.jsx`
+
+
 
 ---
 
@@ -113,7 +114,6 @@ In future updates, you’ll be able to:
 ✅ Ignore specific files/folders  
 
 ---
-
 ## 💼 Why Console Counter?
 
 While debugging, `console.log` is your best friend — but in production, it’s your enemy.  
@@ -128,7 +128,8 @@ This extension helps you keep your project clean with **one tap** instead of man
 - Added count and remove features with shortcuts.  
 - Smart notification when no consoles are found.
 
----
+
+ ---
 
 ## 💙 Support
 
@@ -137,6 +138,7 @@ If you enjoy using it, please ⭐ the repository and share it with your dev frie
 
 ---
 
+
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingyaari)
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codingyaari)
@@ -144,14 +146,6 @@ If you enjoy using it, please ⭐ the repository and share it with your dev frie
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingyaari)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31368342/codingyaari)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~codingyaari)
-
-
----
-
-## 📜 License
-
-Released under the MIT License.  
-Free to use for personal and commercial projects.
 
 
  ## 🤝 Contributing
