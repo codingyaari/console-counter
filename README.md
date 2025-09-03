@@ -137,20 +137,15 @@ If you enjoy using it, please ⭐ the repository and share it with your dev frie
 
 ---
 
-## 📧 Contact
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingyaari)
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codingyaari)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579800007414)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingyaari)
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31368342/codingyaari)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~codingyaari)
 
-Feel free to reach out or follow me on these platforms:
 
-| Platform        | Link |
-|-----------------|------|
-| 🌐 **GitHub**   | [github.com/codingyaari](https://github.com/codingyaari) |
-| 📦 **NPM**      | [npmjs.com/~codingyaari](https://www.npmjs.com/~codingyaari) |
-| 💬 **StackOverflow** | [stackoverflow.com/users/31368342/codingyaari](https://stackoverflow.com/users/31368342/codingyaari) |
-| ▶️ **YouTube**  | [youtube.com/@codingyaari](https://www.youtube.com/@codingyaari) |
-| 👍 **Facebook** | [facebook.com/profile.php?id=61579800007414](https://www.facebook.com/profile.php?id=61579800007414) |
-| 📸 **Instagram**| [instagram.com/codingyaari](https://instagram.com/codingyaari) |
-| 🐦 **X (Twitter)** | [x.com/codingyaari](https://x.com/codingyaari) |
-| 📧 **Gmail**    | [codingyaari@gmail.com](mailto:codingyaari@gmail.com) |
 ---
 
 ## 📜 License
